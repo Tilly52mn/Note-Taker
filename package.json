@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "id-hasher": "^1.0.3",
+    "nanoid": "^3.1.30",
     "node": "^17.0.1"
   }
 }

@@ -5,4 +5,7 @@
       res.sendFile(path.join(__dirname,'../public/notes.html'));
   });
 
+
+  
   module.exports = router;
+

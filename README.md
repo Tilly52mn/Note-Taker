@@ -11,6 +11,8 @@
 
 ## Description
 This application allows a user to write and save notes to be viewed later
+webpage snap shot ![Capture](https://user-images.githubusercontent.com/88518686/139618986-2a8a4289-d021-420d-8e7e-ca4266fe64e8.PNG)
+Deployed application https://damp-ravine-39219.herokuapp.com/
 
 ## Installation
 To run this a application fresh npm, express, node, and nanoid need to be installed to install them run "npm i" and then "npm i express node nanoid" to have everything installed on the project

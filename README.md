@@ -10,8 +10,8 @@
 [Questions](#Questions)<br/>
 
 ## Description
-This application allows a user to write and save notes to be viewed later
-webpage snap shot ![Capture](https://user-images.githubusercontent.com/88518686/139618986-2a8a4289-d021-420d-8e7e-ca4266fe64e8.PNG)
+This application allows a user to write and save notes to be viewed later. See below for a snap shot of the deployed application and a link.
+ ![Capture](https://user-images.githubusercontent.com/88518686/139618986-2a8a4289-d021-420d-8e7e-ca4266fe64e8.PNG)
 Deployed application https://damp-ravine-39219.herokuapp.com/
 
 ## Installation

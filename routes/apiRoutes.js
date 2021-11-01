@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const path = require('path');
-const {notes} = require('../db/db.json')
+const notes = require('../db/db.json')
 const fs = require('fs');
 const { nanoid } = require('nanoid')
 

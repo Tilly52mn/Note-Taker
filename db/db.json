@@ -1,32 +1,7 @@
 [
     {
-        "title": "Test1Title",
-        "text": "Test5asd text",
+        "title": "Test note",
+        "text": "This note worked!",
         "id": "b_7xB3"
-    },
-    {
-        "title": "Test3 asdfTitle",
-        "text": "Test5asd text",
-        "id": "b_7jmB31"
-    },
-    {
-        "title": "Test3 asdfTasdfitle",
-        "text": "Test5asd texasdft",
-        "id": "Eq3iko"
-    },
-    {
-        "title": "Test3 fitle",
-        "text": "Test5asd sdft",
-        "id": "LS8awD"
-    },
-    {
-        "title": "asdfds",
-        "text": "asdfasdf",
-        "id": "0id9Sa"
-    },
-    {
-        "title": "dfasdfg",
-        "text": "sadfasdfasd",
-        "id": "a51zjP"
     }
 ]

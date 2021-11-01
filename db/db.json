@@ -1,1 +1,13 @@
-{"title":"Test3 asdfTitle","text":"Test5asd text","id":"b_7xB3"}
+{"notes": [
+        {
+            "title": "Test3 asdfTitle",
+            "text": "Test5asd text",
+            "id": "b_7xB3"
+        },
+        {
+            "title": "Test3 asdfTitle",
+            "text": "Test5asd text",
+            "id": "b_7jmB31"
+        }
+    ]
+}
